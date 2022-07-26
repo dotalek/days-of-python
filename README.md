@@ -28,10 +28,18 @@ Challenge:
 Challenge:
 - Reeborg's World Maze level solution
 
-### [Day 7](https://github.com/the-alek/days-of-python/tree/main/day-six)
+### [Day 7](https://github.com/the-alek/days-of-python/tree/main/day-seven)
 Challenge:
 - Hangman
 
 Bonus:
 - Comma Code
 - CLI Conway's Game of Life
+
+### [Day 8](https://github.com/the-alek/days-of-python/tree/main/day-eight)
+Challenge:
+- Caesar Cypher
+
+### [Day 9](https://github.com/the-alek/days-of-python/tree/main/day-nine)
+Challenge:
+- Silent Auction
