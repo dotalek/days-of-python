@@ -70,3 +70,9 @@ Challenge:
 Challenge:
 
 - Calculator
+
+### [Day 11](https://github.com/the-alek/days-of-python/tree/main/day-eleven)
+
+Challenge:
+
+- CLI Blackjack
