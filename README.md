@@ -76,3 +76,9 @@ Challenge:
 Challenge:
 
 - CLI Blackjack
+
+### [Day 12](https://github.com/the-alek/days-of-python/tree/main/day-twelve)
+
+Challenge:
+
+- CLI Guess the Number
