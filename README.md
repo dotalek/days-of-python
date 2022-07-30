@@ -82,3 +82,9 @@ Challenge:
 Challenge:
 
 - CLI Guess the Number
+
+### [Day 13](https://github.com/the-alek/days-of-python/tree/main/day-thirteen)
+
+Challenge:
+
+- Debugging exercises
