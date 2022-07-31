@@ -88,3 +88,9 @@ Challenge:
 Challenge:
 
 - Debugging exercises
+
+### [Day 14](https://github.com/the-alek/days-of-python/tree/main/day-fourteen)
+
+Challenge:
+
+- CLI Higher Lower Game
