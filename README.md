@@ -94,3 +94,13 @@ Challenge:
 Challenge:
 
 - CLI Higher Lower Game
+
+### [Day 14](https://github.com/the-alek/days-of-python/tree/main/day-fourteen)
+
+Challenge:
+
+- Coffee Machine
+
+Bonus:
+
+- Fibonacci implementations
