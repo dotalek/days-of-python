@@ -1,10 +1,14 @@
 from turtle import Turtle, mainloop, Screen
+import colorgram
 
 
 import random
 
 
 DIRECTIONS = [0, 90, 180, 270]
+FILE_PATH = "image.jpeg"
+COLORS = [(color.rgb.r, color.rgb.g, color.rgb.b)
+          for color in colorgram.extract(FILE_PATH, 30)]
 
 
 def main():
@@ -66,6 +70,28 @@ def main():
             cursor.circle(size)
             cursor.setheading(angle * (i + 1))
     # draw_spirograph(20, 100)
+
+    # Hisrst Painting Project
+    def goto_next_spot(x_start=-250, x_end=200, spacing=50):
+        x = cursor.xcor() + spacing if cursor.xcor() < x_end else x_start
+        y = cursor.ycor() + spacing if x == x_start else cursor.ycor()
+        cursor.goto(x, y)
+
+    def hirst_painting(x_start=-250, x_end=200, y_start=-250, y_end=200, spacing=50, dot_size=20):
+        # Setup the cursor
+        cursor.penup()
+        cursor.speed("fastest")
+
+        # Go to starting position
+        cursor.goto(x_start, y_start)
+
+        # Paint through the canvas
+        while cursor.ycor() <= y_end and cursor.xcor() <= x_end:
+            if cursor.ycor() <= y_end:
+                cursor.dot(dot_size, random.choice(COLORS))
+                goto_next_spot(x_start, x_end, spacing)
+        cursor.hideturtle()
+    hirst_painting()
 
     mainloop()
 
