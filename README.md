@@ -116,3 +116,14 @@ Challenge:
 Challenge:
 
 - Quiz Program
+
+### [Day 18](https://github.com/the-alek/days-of-python/tree/main/day-eighteen)
+
+Challenges:
+
+- Draw Square
+- Draw Dotted Line
+- Draw Overlapped Shapes
+- Draw Random Color Path
+- Draw Spirograph
+- Hirst Painting Project
