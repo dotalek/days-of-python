@@ -127,3 +127,8 @@ Challenges:
 - Draw Random Color Path
 - Draw Spirograph
 - Hirst Painting Project
+
+### [Day 19](https://github.com/the-alek/days-of-python/tree/main/day-nineteen)
+
+- Etch A Sketch Program
+- Turtle Race Game
