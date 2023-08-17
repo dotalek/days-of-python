@@ -132,3 +132,7 @@ Challenges:
 
 - Etch A Sketch Program
 - Turtle Race Game
+
+### [Day 20](https://github.com/the-alek/days-of-python/tree/main/day-twenty)
+
+- Snake Game Part 1
