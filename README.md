@@ -136,3 +136,7 @@ Challenges:
 ### [Day 20](https://github.com/the-alek/days-of-python/tree/main/day-twenty)
 
 - Snake Game Part 1
+
+### [Day 21](https://github.com/the-alek/days-of-python/tree/main/day-twenty)
+
+- Snake Game Part 2
